@@ -1,4 +1,4 @@
-.
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -826,10 +826,12 @@ header .fa-bars{
    
 }
 .socialMenu ul{
-    margin-right: 400px;
+    /* margin-right: 400px;
     margin-left: 400px;
-    margin-bottom: 100px;
+    margin-bottom: 100px; */
     text-align: center;
+
+    margin: 10px;
 }
 .socialMenu ul li {
     display: inline-block;
